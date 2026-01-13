@@ -3,7 +3,7 @@
 
   <h1>Hi 👋, I'm Tibin Peter</h1>
   <p align="center">
-    <strong>Self-driven Backend & Frontend Developer from India 🇮🇳</strong>
+    <h2>FullStackDeveloper---Golang||React||Tailwind</h2>
   </p>
 
   <p>
@@ -17,7 +17,7 @@
 
 A detail-oriented developer passionate about building scalable web applications and mastering modern tech stacks. Currently diving deep into the **Go ecosystem** and **React state management**.
 
-- 🌱 **Currently Learning:** React, Redux, Golang, and the Gin Framework.
+- 🌱 **Currently Learning:**  New thinks
 - 📬 **Reach me at:** [tibinpeter0@gmail.com](mailto:tibinpeter0@gmail.com)
 - ⚡ **Fun Fact:** I love solving problems on LeetCode to sharpen my logic.
 
@@ -56,23 +56,7 @@ A detail-oriented developer passionate about building scalable web applications 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Shoe E-commerce**](https://github.com/tibin-peter/shoe-ecommerce) | Modern UI with reusable components and API integration. | React, CSS, API |
+| [**Shoe E-commerce**](https://github.com/tibin-peter/shoe-ecommerce) | Modern UI with reusable components and API integration. | React, TailwindCSS,DummyJson |
 | [**User Management System**](https://github.com/tibin-peter/User-Management-System-Gin-Gorm-) | Full CRUD backend with middleware and DB integration. | Go, Gin, GORM |
+| [**Turf-Booking-System**](https://github.com/tibin-peter/Turf-Booking-System) | Full CRUD backend with middleware and DB integration. | Go, Gin, GORM,Postgres,Jwt |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibin-peter&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tibin-peter&show_icons=true&locale=en&theme=vision-friendly-dark" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tibin-peter&theme=vision-friendly-dark" />
-</div>
